@@ -1,0 +1,17 @@
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\bin\Debug\net8.0\TaskManager.Tests.deps.json
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\bin\Debug\net8.0\TaskManager.Tests.dll
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\bin\Debug\net8.0\TaskManager.Tests.pdb
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.AssemblyInfoInputs.cache
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.AssemblyInfo.cs
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.dll
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\refint\TaskManager.Tests.dll
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.pdb
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\ref\TaskManager.Tests.dll
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\bin\Debug\net8.0\TaskManager.Application.dll
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\bin\Debug\net8.0\TaskManager.Application.pdb
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.csproj.AssemblyReference.cache
+C:\Users\PauloOkino\Downloads\TaskManagerTestAPI\TaskManager.Tests\obj\Debug\net8.0\TaskMana.9852C988.Up2Date

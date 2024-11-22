@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xw9y4PXspfM+0TRQ8A5GD+ao/P34uqvVxAX67f9R8HU=",
+  "Source": "TaskManagerTestAPI",
+  "BasePath": "_content/TaskManagerTestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
